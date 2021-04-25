@@ -13,7 +13,10 @@ with the setup done and codes uploaded just plug the arduinos to computers and o
 
 to change the transmitting values change the array of binary data to your choice of binary data in the transmitting code (transmitter-lifi).
 
-thank you 
+![Li-Fi_bb](https://user-images.githubusercontent.com/72198810/115985219-6b77fd00-a5c8-11eb-90c7-aa6a311d5885.jpg)
+
+
+thank you
 
 and you can contact me for any changes you would like me to do or for any of your valuable feedbacks.
 
